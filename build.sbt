@@ -1,8 +1,6 @@
 enablePlugins(ScriptedPlugin)
 
-ThisBuild / scalaVersion := "2.12.12"
-ThisBuild / useSuperShell := false
-ThisBuild / autoStartServer := false
+ThisBuild / scalaVersion := "2.13.3"
 
 name := "scala-seed"
 
